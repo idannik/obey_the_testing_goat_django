@@ -25,7 +25,7 @@ SECRET_KEY = 'luktern4!%y*ag-zimale$ka1z2)*-ub*s3oe^ck1#-cc3s909'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
